@@ -1,1 +1,2 @@
-# Exerc-cios-de-IA
+Sistema Operacional: Windows
+Foi utilizado o Visual Studio
