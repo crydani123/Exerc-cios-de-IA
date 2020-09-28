@@ -1,2 +1,2 @@
-Sistema Operacional: Windows,
-Foi utilizado o Visual Studio
+Sistema Operacional: Windows, Os exercícios foram feitos em Python então precisa ter instalo em seu computador,
+Utilizei Visual Studio
