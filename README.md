@@ -1,3 +1,2 @@
-Sistema Operacional: Windows
-print()
+Sistema Operacional: Windows,
 Foi utilizado o Visual Studio
